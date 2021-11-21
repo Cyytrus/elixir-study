@@ -37,6 +37,9 @@
         > round(3.58)
         > 4
 
+        > round(3.40)
+        > 3
+
     Arredonda um número
 
   - **trunc:**
