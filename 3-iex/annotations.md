@@ -2,7 +2,9 @@
 
   - Documentação: https://hexdocs.pm/iex/IEx.html
 
-  - Existem diversos Helpers no IEx que podem ser acessados digitando-se o h(). ○ 1 — Todos os helpers são mostrados com a sua respectiva aridade das funções
+  - Existem diversos Helpers no IEx que podem ser acessados digitando-se o h(). 
+  
+  - Todos os helpers são mostrados com a sua respectiva aridade das funções
 
   - Podemos “pedir ajuda” sobre qualquer módulo ou função, bastando para isso invocar o h(<nome do módulo ou função>). Ex: h(Enum) ou h(Enum.map).
 
